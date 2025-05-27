@@ -1,25 +1,10 @@
 {
-  "name": "cordova-plugin-mock-location",
-  "version": "0.0.8",
-  "description": "Cordova Mock Location Check Plugin",
-  "author": "kosh",
+  "name": "cordova-bring-to-front",
+  "version": "1.0.0",
+  "description": "Bring Cordova app to front",
   "cordova": {
-    "id": "cordova-plugin-mock-location",
-    "platforms": "android"
+    "id": "cordova-bring-to-front",
+    "platforms": ["android"]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ikoshik/cordova-plugin-mock-location.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ikoshik/cordova-plugin-mock-location/issues"
-  },
-  "homepage": "https://github.com/ikoshik/cordova-plugin-mock-location#readme",
-  "keywords": [
-    "cordova",
-    "mock",
-    "location",
-	"mock-location"
-  ],
-  "license": "MIT"
+  "keywords": ["cordova", "bring", "front", "android"]
 }
